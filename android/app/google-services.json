@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "834153640086",
+    "project_id": "utemundi",
+    "storage_bucket": "utemundi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834153640086:android:8dfad9897d6d066aa312b7",
+        "android_client_info": {
+          "package_name": "com.example.testing_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834153640086-3sspsnatpr5o74bb08jod7h0vco9iqm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV_buPjx9Xv5DVkFuUb7ck3vsrQNes9UY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834153640086-3sspsnatpr5o74bb08jod7h0vco9iqm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

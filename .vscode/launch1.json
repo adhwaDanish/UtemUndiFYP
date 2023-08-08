@@ -1,0 +1,8 @@
+{
+    "name": "Dart & Flutter",
+    "request": "launch",
+    "type": "dart",
+    "program": "lib/main.dart",
+    "args": [],
+    "cwd": "${workspaceFolder}"
+}
